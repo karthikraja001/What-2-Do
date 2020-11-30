@@ -1,4 +1,4 @@
-# simple_task_manager
+# What 2 Do
 
 A new Flutter project.
 
