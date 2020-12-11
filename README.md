@@ -61,7 +61,7 @@ This is a basic flutter app which helps in taking notes of your tasks.
 :white_check_mark:**Karthik Raja**
 <p align="left">  
 <h3 align="left">Connect with me:</h3>  
-<a href="https://twitter.com/mranonymousofcl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mranonymousofcl" height="30" width="40" /></a>  
-<a href="https://instagram.com/mr.anonymous_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.anonymous_official" height="30" width="40" /></a>  
-<a href="https://discord.com/channels/mr_anonymous_2001#4770" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="mranonymousofcl" height="30" width="40" /></a>
+<a href="https://twitter.com/mranonymousofcl" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/></a>  
+<a href="https://instagram.com/mr.anonymous_official" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/instagram-new.png"/></a>  
+<a href="https://discord.com/channels/mr_anonymous_2001#4770" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/discord-new-logo.png"/></a>
 </p>  
